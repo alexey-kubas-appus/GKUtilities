@@ -1,0 +1,6 @@
+framework module GKutilitiesFramework {
+  umbrella header "GKutilitiesFramework.h"
+
+  export *
+  module * { export * }
+}

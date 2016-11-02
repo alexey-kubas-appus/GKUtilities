@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
 
 s.name         = "GKUtilities"
-s.version      = "0.0.3"
+s.version      = "0.1.0"
 s.summary      = "GKUtilities component"
 
 # This description is used to generate tags and improve search results.
@@ -87,8 +87,9 @@ s.source       = { :git => "https://github.com/alexey-kubas-appus/GKUtilities.gi
 #  For header files it will include any header in the folder.
 #  Not including the public_header_files will make all headers public.
 #
-s.vendored_libraries = "library/libGKUtilities.a"
-s.source_files  = "library/GKUtilities.h"
+#s.vendored_libraries = "library/libGKUtilities.a"
+#s.source_files  = "library/GKUtilities.h"
+s.vendored_frameworks = 'library/GKUtilities.framework'
 #  s.exclude_files = "Classes/Exclude"
 
 # s.public_header_files = "Classes/**/*.h"
