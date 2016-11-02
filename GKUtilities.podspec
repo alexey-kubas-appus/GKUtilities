@@ -89,7 +89,7 @@ s.source       = { :git => "https://github.com/alexey-kubas-appus/GKUtilities.gi
 #
 #s.vendored_libraries = "library/libGKUtilities.a"
 #s.source_files  = "library/GKUtilities.h"
-s.vendored_frameworks = 'library/GKUtilities.framework'
+s.vendored_frameworks = 'library/GKutilitiesFramework.framework'
 #  s.exclude_files = "Classes/Exclude"
 
 # s.public_header_files = "Classes/**/*.h"
