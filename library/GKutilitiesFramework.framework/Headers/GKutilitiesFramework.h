@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char GKutilitiesFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <GKutilitiesFramework/PublicHeader.h>
 
-#import <GKutilitiesFramework/GKUtilities.h>
+#import "GKUtilities.h"

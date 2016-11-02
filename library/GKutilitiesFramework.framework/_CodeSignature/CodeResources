@@ -4,21 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		19/J0uDkHRMF8ttRaWoAL8VEkVc=
-		</data>
 		<key>Headers/GKUtilities.h</key>
 		<data>
 		McnKaySA1981FeTecChpl9/x7J0=
 		</data>
 		<key>Headers/GKutilitiesFramework.h</key>
 		<data>
-		0jNCJD+tA4mz+gHsRGHc/WI8diY=
+		4kdrAIulUjJruoQdHb5+F4I1BlM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		X3rYhIO1T6t8ayxI5Q46lb0DPOk=
+		qqwDZjr3pVOrWnMVh8Yuf+fNaQk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,11 +38,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0jNCJD+tA4mz+gHsRGHc/WI8diY=
+			4kdrAIulUjJruoQdHb5+F4I1BlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			x0ipqKAJj8GqLdUvoAvEHYqCACCDmQymo6YwL1Up46M=
+			f7jB7osUMENBuHI1SBOaLSwq6uB4KNplvZn+6K4ZjjI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
