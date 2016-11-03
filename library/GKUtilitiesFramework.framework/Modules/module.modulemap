@@ -1,6 +1,0 @@
-framework module GKUtilitiesFramework {
-  umbrella header "GKUtilitiesFramework.h"
-
-  export *
-  module * { export * }
-}
